@@ -1,0 +1,14 @@
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/bin/Debug/net9.0/Kontrolna
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/bin/Debug/net9.0/Kontrolna.deps.json
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/bin/Debug/net9.0/Kontrolna.runtimeconfig.json
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/bin/Debug/net9.0/Kontrolna.dll
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/bin/Debug/net9.0/Kontrolna.pdb
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/obj/Debug/net9.0/Kontrolna.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/obj/Debug/net9.0/Kontrolna.AssemblyInfoInputs.cache
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/obj/Debug/net9.0/Kontrolna.AssemblyInfo.cs
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/obj/Debug/net9.0/Kontrolna.csproj.CoreCompileInputs.cache
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/obj/Debug/net9.0/Kontrolna.dll
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/obj/Debug/net9.0/refint/Kontrolna.dll
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/obj/Debug/net9.0/Kontrolna.pdb
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/obj/Debug/net9.0/Kontrolna.genruntimeconfig.cache
+/Volumes/MY HARDISK/Proekti/9klas/Kontrolna/Kontrolna/obj/Debug/net9.0/ref/Kontrolna.dll
